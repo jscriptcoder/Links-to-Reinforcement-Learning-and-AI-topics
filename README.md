@@ -32,6 +32,7 @@ TODO
 - [UCL Course on RL with David Silver 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), and [website](https://www.davidsilver.uk/teaching/)
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [CS885 Spring 2018 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc), and [website](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
+- [CS7015: Deep Learning](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT), and [website](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
 
 ## RL in Robotics
 TODO
