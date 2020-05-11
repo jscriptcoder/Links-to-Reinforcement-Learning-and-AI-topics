@@ -31,6 +31,7 @@ TODO
 - [CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u), and [website](http://web.stanford.edu/class/cs234/index.html)
 - [UCL Course on RL with David Silver 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), and [website](https://www.davidsilver.uk/teaching/)
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [CS885 Spring 2018 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc), and [website](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
 
 ## RL in Robotics
 TODO
