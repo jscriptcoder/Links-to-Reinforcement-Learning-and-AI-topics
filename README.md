@@ -1,7 +1,7 @@
 # Links to Reinforcement Learning and other AI related topics
 
 - Papers
-- Books
+- [Books](Books.md)
 - Multi-Agent RL
 - Model-based RL
 - Model-free RL
