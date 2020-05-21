@@ -6,3 +6,4 @@
 - [Notes on the Generalized Advantage Estimation Paper](https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/)
 - [Entropy loss for reinforcement learning](https://fosterelli.co/entropy-loss-for-reinforcement-learning)
 - [Deep Reinforcement Learning with Online Generalized Advantage Estimation](http://www.breloff.com/DeepRL-OnlineGAE/)
+- [Collaborating with Humans Requires Understanding Them by BAIR](https://bair.berkeley.edu/blog/2019/10/21/coordination/)
