@@ -8,3 +8,4 @@
 - [Entropy loss for reinforcement learning](https://fosterelli.co/entropy-loss-for-reinforcement-learning)
 - [Deep Reinforcement Learning with Online Generalized Advantage Estimation](http://www.breloff.com/DeepRL-OnlineGAE/)
 - [Collaborating with Humans Requires Understanding Them by BAIR](https://bair.berkeley.edu/blog/2019/10/21/coordination/)
+- [Distributional RL](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
