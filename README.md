@@ -1,7 +1,7 @@
 # Links to Reinforcement Learning and other AI related topics
 
 - Papers
-- Multi-Agent RL
+- [Multi-Agent RL](Marl.md)
 - Model-based RL
 - Model-free RL
 - RL in Finance
