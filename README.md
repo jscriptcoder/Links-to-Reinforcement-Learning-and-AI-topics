@@ -12,4 +12,4 @@
 - [Youtube University](Youtube-University.md)
 - RL in Robotics
 - [Repositories](Repositories.md)
-- Other compilations
+- [Other Compilations](Other-Compilations.md)
