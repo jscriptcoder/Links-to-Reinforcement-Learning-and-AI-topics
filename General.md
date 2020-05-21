@@ -9,3 +9,4 @@
 - [Deep Reinforcement Learning with Online Generalized Advantage Estimation](http://www.breloff.com/DeepRL-OnlineGAE/)
 - [Collaborating with Humans Requires Understanding Them by BAIR](https://bair.berkeley.edu/blog/2019/10/21/coordination/)
 - [Distributional RL](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
