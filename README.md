@@ -2,6 +2,7 @@
 
 - [General](General.md)
 - Papers
+- [Blogs](Blogs.md)
 - [Multi-Agent RL](Multi-Agent-RL.md)
 - Model-based RL
 - [Model-free RL](Model-free-RL.md)
