@@ -22,3 +22,7 @@
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
 - [Lazy Programmer](https://www.youtube.com/channel/UCdROkkPGHy6uVpUrIB4n3YQ)
 - [Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw)
+
+## Tutorials
+
+- [Proximal Policy Optimization](https://www.youtube.com/watch?v=WxQfQW48A4A)
