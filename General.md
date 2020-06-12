@@ -16,3 +16,6 @@
 - [Monte Carlo in Reinforcement Learning, the Easy Way](https://medium.com/@zsalloum/monte-carlo-in-reinforcement-learning-the-easy-way-564c53010511)
 - [Learning from Human Preferences](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
 - [Practical Guide to Hyperparameters Optimization for Deep Learning Models](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
+
+## Compilations
+- [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
