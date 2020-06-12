@@ -17,6 +17,7 @@
 - [OpenAI Gym trading environment](https://github.com/AminHP/gym-anytrading)
 - [Sairen - OpenAI Gym Reinforcement Learning Environment for the Stock Market](https://doctorj.gitlab.io/sairen/)
 - [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
+- [Voyage Deepdrive: self-driving simulator](https://deepdrive.voyage.auto/)
 
 ## Other Compilations
 - [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
