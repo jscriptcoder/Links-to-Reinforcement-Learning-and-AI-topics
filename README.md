@@ -12,6 +12,6 @@
 - [Youtube University](Youtube-University.md)
 - RL in Robotics
 - Environments for RL
-- Exploratioin Strategies
+- Exploration Strategies
 - [Repositories](Repositories.md)
 - [Other Compilations](Other-Compilations.md)
