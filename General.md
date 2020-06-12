@@ -10,3 +10,4 @@
 - [Collaborating with Humans Requires Understanding Them by BAIR](https://bair.berkeley.edu/blog/2019/10/21/coordination/)
 - [Distributional RL](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+- [Open-source RL](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0)
