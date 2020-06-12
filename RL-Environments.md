@@ -2,6 +2,7 @@
 # Reinforcement Learning Environments
 
 - [OpenAI Gym](https://gym.openai.com/)
+- [OpenAI Gym: packaged with Gym, official OpenAI environments, and third party environment](https://github.com/openai/gym/blob/master/docs/environments.md)
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)
 - [PyBullet Gymperium: Open-source implementations of OpenAI Gym MuJoCo environments](https://github.com/benelot/pybullet-gym)
 - [osim-rl: Reinforcement learning with musculoskeletal models in OpenSim](http://osim-rl.stanford.edu/)
