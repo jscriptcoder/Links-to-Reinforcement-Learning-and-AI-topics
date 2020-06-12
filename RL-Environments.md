@@ -11,7 +11,7 @@
 - [Framework for training, evaluating, and deploying robust trading agents](https://github.com/tensortrade-org/tensortrade)
 - [Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information](https://github.com/mwydmuch/ViZDoom)
 - [OpenSpiel: Collection of RL environments and algorithms](https://github.com/deepmind/open_spiel)
-- [ns3-gym - The Playground for Reinforcement Learning](https://github.com/tkn-tub/ns3-gym)
+- [ns3-gym: The Playground for Reinforcement Learning](https://github.com/tkn-tub/ns3-gym)
 - [Reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym)
 
 ## Other Compilations
