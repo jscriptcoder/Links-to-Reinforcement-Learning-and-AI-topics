@@ -24,3 +24,9 @@
 - [Pytorch Open Source Projects](https://awesomeopensource.com/projects/pytorch)
 - [Resources about Pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 - [NeurIPS 2019](https://slideslive.com/t/neurips-2019)
+
+## Camps & Schools
+
+- [Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife/home)
+- [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
+- [Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/)
