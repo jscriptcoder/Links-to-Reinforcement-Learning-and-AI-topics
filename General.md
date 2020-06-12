@@ -20,3 +20,4 @@
 
 ## Compilations
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
+- [Pytorch Open Source Projects](https://awesomeopensource.com/projects/pytorch)
