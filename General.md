@@ -11,3 +11,4 @@
 - [Distributional RL](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [Open-source RL](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0)
+- [OpenAI, Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
