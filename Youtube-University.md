@@ -26,3 +26,10 @@
 ## Tutorials
 
 - [Proximal Policy Optimization](https://www.youtube.com/watch?v=WxQfQW48A4A)
+- [TRPO (Trust Region Policy Optimization): In depth Research Paper Review](https://www.youtube.com/watch?v=CKaN5PgkSBc)
+- [Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://www.youtube.com/watch?v=5P7I-xPq8u8&)
+
+## Others
+
+- [ICML 2017, Deep Reinforcement Learning, Decision Making, and Control by Sergey Lavine and Chelsea Finn](https://www.youtube.com/watch?v=7Ys-yUvd1yk)
+- [Deep Reinforcement Learning Through Policy Optimization](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization)
