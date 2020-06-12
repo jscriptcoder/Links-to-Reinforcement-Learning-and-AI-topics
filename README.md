@@ -13,6 +13,6 @@
 - RL in Robotics
 - [RL Environments](RL-Environments.md)
 - [RL Frameworks](RL-Frameworks.md)
-- Exploration Strategies
+- [Exploration Strategies](Exploration-Strategies.md)
 - [Repositories](Repositories.md)
 - [Other Compilations](Other-Compilations.md)
