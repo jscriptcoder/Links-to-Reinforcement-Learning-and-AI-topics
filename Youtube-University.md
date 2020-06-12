@@ -34,3 +34,4 @@
 
 - [ICML 2017, Deep Reinforcement Learning, Decision Making, and Control by Sergey Lavine and Chelsea Finn](https://www.youtube.com/watch?v=7Ys-yUvd1yk)
 - [Deep Reinforcement Learning Through Policy Optimization](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization)
+- [DLRLSS 2019 - Multi-Agent RL - Michael Bowling](https://www.youtube.com/watch?v=p_n5fF8apiE)
