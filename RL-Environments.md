@@ -1,5 +1,5 @@
 
-# RL Environments
+# Reinforcement Learning Environments
 
 - [OpenAI Gym](https://gym.openai.com/)
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)
