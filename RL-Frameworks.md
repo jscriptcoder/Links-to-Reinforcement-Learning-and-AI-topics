@@ -1,4 +1,4 @@
-# RL Frameworks
+# Reinforcement Learning Frameworks
 
 - [OpenAI Baselines](https://github.com/openai/baselines)
 - [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
