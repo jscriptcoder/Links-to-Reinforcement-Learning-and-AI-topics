@@ -23,7 +23,7 @@
 - [Lazy Programmer](https://www.youtube.com/channel/UCdROkkPGHy6uVpUrIB4n3YQ)
 - [Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw)
 
-## Tutorials
+## Tutorials & Papers
 
 - [Proximal Policy Optimization](https://www.youtube.com/watch?v=WxQfQW48A4A)
 - [TRPO (Trust Region Policy Optimization): In depth Research Paper Review](https://www.youtube.com/watch?v=CKaN5PgkSBc)
