@@ -17,6 +17,7 @@
 - [Learning from Human Preferences](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
 - [Practical Guide to Hyperparameters Optimization for Deep Learning Models](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
 - [Gaussian Process, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
+- [How to fix Reinforcement Learning](https://thegradient.pub/how-to-fix-rl/)
 
 ## Compilations
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
