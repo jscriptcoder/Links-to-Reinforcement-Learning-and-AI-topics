@@ -13,6 +13,7 @@
 - [OpenSpiel: Collection of RL environments and algorithms](https://github.com/deepmind/open_spiel)
 - [ns3-gym: The Playground for Reinforcement Learning](https://github.com/tkn-tub/ns3-gym)
 - [Reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym)
+- [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
 
 ## Other Compilations
 - [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
