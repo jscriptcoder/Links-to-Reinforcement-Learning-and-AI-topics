@@ -6,3 +6,4 @@
 - [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877)
 - [Dealing with Sparse Rewards in Reinforcement Learning by Joshua Hare](https://arxiv.org/abs/1910.09281)
 - [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635)
+- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/abs/2006.05990)
