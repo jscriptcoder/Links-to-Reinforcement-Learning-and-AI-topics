@@ -4,7 +4,7 @@
 - [Papers](Papers.md)
 - [Blogs](Blogs.md)
 - [Multi-Agent RL](Multi-Agent-RL.md)
-- Model-based RL
+- [Model-based RL](Model-based-RL.md)
 - [Model-free RL](Model-free-RL.md)
 - RL in Finance
 - Deep Learning
