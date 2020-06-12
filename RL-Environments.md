@@ -14,6 +14,7 @@
 - [ns3-gym: The Playground for Reinforcement Learning](https://github.com/tkn-tub/ns3-gym)
 - [Reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym)
 - [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
+- [OpenAI Gym trading environment](https://github.com/AminHP/gym-anytrading)
 
 ## Other Compilations
 - [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
