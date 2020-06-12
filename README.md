@@ -1,7 +1,7 @@
 # Links to Reinforcement Learning and other AI related topics
 
 - [General](General.md)
-- Papers
+- [Papers](Papers.md)
 - [Blogs](Blogs.md)
 - [Multi-Agent RL](Multi-Agent-RL.md)
 - Model-based RL
