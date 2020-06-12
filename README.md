@@ -11,7 +11,8 @@
 - Interview & Questions
 - [Youtube University](Youtube-University.md)
 - RL in Robotics
-- Environments for RL
+- RL Environments
+- RL Frameworks
 - Exploration Strategies
 - [Repositories](Repositories.md)
 - [Other Compilations](Other-Compilations.md)
