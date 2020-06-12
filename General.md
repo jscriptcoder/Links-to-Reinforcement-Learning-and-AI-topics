@@ -14,3 +14,4 @@
 - [OpenAI, Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [Human-Inspired Memory Patterns in Deep Learning](https://medium.com/intuitionmachine/human-inspired-memory-patterns-in-deep-learning-25ab5a254887)
 - [Monte Carlo in Reinforcement Learning, the Easy Way](https://medium.com/@zsalloum/monte-carlo-in-reinforcement-learning-the-easy-way-564c53010511)
+- [Learning from Human Preferences](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
