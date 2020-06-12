@@ -13,3 +13,5 @@
 - [Open-source RL](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0)
 - [OpenAI, Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [Human-Inspired Memory Patterns in Deep Learning](https://medium.com/intuitionmachine/human-inspired-memory-patterns-in-deep-learning-25ab5a254887)
+- [Monte Carlo in Reinforcement Learning, the Easy Way](https://medium.com/@zsalloum/monte-carlo-in-reinforcement-learning-the-easy-way-564c53010511)
+- 
