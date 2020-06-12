@@ -36,3 +36,4 @@
 - [Deep Reinforcement Learning Through Policy Optimization](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization)
 - [DLRLSS 2019 - Multi-Agent RL - Michael Bowling](https://www.youtube.com/watch?v=p_n5fF8apiE)
 - [Reinforcement Learning: Past, Present, and Future Perspectives](https://slideslive.com/38921493/reinforcement-learning-past-present-and-future-perspectives)
+- [NeurIPS 2019](https://slideslive.com/t/neurips-2019)
