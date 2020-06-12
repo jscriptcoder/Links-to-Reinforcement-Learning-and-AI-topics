@@ -8,6 +8,7 @@
 - [Model-free RL](Model-free-RL.md)
 - RL in Finance
 - Deep Learning
+- [News](News.md)
 - Interview & Questions
 - [Youtube University](Youtube-University.md)
 - RL in Robotics
