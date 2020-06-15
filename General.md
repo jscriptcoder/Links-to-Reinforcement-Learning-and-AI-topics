@@ -18,6 +18,7 @@
 - [Practical Guide to Hyperparameters Optimization for Deep Learning Models](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
 - [Gaussian Process, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 - [How to fix Reinforcement Learning](https://thegradient.pub/how-to-fix-rl/)
+- [The Promise of Hierarchical Reinforcement Learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
 
 ## Compilations
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
