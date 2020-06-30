@@ -37,3 +37,4 @@
 - [DLRLSS 2019 - Multi-Agent RL - Michael Bowling](https://www.youtube.com/watch?v=p_n5fF8apiE)
 - [Reinforcement Learning: Past, Present, and Future Perspectives](https://slideslive.com/38921493/reinforcement-learning-past-present-and-future-perspectives)
 - [NeurIPS 2019](https://slideslive.com/t/neurips-2019)
+- [2020 Virtual Conference on Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife)
