@@ -25,6 +25,7 @@
 - [Pytorch Open Source Projects](https://awesomeopensource.com/projects/pytorch)
 - [Resources about Pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 - [NeurIPS 2019](https://slideslive.com/t/neurips-2019)
+- [2020 Virtual Conference on Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife)
 
 ## Camps & Schools
 
