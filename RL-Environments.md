@@ -20,6 +20,7 @@
 - [Voyage Deepdrive: self-driving simulator](https://deepdrive.voyage.auto/)
 - [CARLA: Open-source simulator for autonomous driving research](http://carla.org/)
 - [Habitat: A simulation platform for research in embodied AI](https://aihabitat.org/)
+- [MineRL: Towards AI in Minecraft](https://minerl.io/)
 
 ## Other Compilations
 - [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
