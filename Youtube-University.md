@@ -29,6 +29,7 @@
 - [TRPO (Trust Region Policy Optimization): In depth Research Paper Review](https://www.youtube.com/watch?v=CKaN5PgkSBc)
 - [Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://www.youtube.com/watch?v=5P7I-xPq8u8&)
 - [Reinforcement Learning Upside Down: Don't Predict Rewards - Just Map Them to Actions](https://www.youtube.com/watch?v=RrvC8YW0pT0&feature=youtu.be)
+- [Long Term Credit Assignment with Temporal Reward Transport](https://www.youtube.com/watch?v=jjmTmYMsET0)
 
 ## Others
 
