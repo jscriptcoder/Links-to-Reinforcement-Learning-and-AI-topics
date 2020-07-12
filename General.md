@@ -19,6 +19,7 @@
 - [Gaussian Process, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 - [How to fix Reinforcement Learning](https://thegradient.pub/how-to-fix-rl/)
 - [The Promise of Hierarchical Reinforcement Learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
+- [Overcoming exploration in RL from demos](https://jangirrishabh.github.io/2018/03/25/Overcoming-exploration-demos.html)
 
 ## Compilations
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
