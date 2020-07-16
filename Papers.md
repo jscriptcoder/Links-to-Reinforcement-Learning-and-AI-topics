@@ -8,3 +8,4 @@
 - [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635)
 - [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/abs/2006.05990)
 - [Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/abs/1810.06721)
+- [Deep Reinforcement Learning and its Neuroscientific Implications](https://arxiv.org/abs/2007.03750)
