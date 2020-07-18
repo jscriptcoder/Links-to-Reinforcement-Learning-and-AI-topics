@@ -20,6 +20,7 @@
 - [How to fix Reinforcement Learning](https://thegradient.pub/how-to-fix-rl/)
 - [The Promise of Hierarchical Reinforcement Learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
 - [Overcoming exploration in RL from demos](https://jangirrishabh.github.io/2018/03/25/Overcoming-exploration-demos.html)
+- [Understanding Baseline Techniques for REINFORCE](https://medium.com/@fork.tree.ai/understanding-baseline-techniques-for-reinforce-53a1e2279b57)
 
 ## Compilations
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
