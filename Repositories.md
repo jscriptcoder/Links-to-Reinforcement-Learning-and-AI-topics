@@ -9,3 +9,4 @@
 - [Pytorch DQN / DDQN / PER / Noisy Nets/ Distributional Values / Rainbow / Hierarchical RL by higgsfield](https://github.com/higgsfield/RL-Adventure)
 - [PyTorch implementation of: Actor Critic / PPO / ACER / DDPG / TD3 / SAC / GAIL / HER by higgsfield](https://github.com/higgsfield/RL-Adventure-2)
 - [Various Coding Demos in Pytorch by Colin Skow](https://github.com/colinskow/move37)
+- [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
