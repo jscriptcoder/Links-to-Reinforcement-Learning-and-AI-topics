@@ -22,6 +22,7 @@
 - [Overcoming exploration in RL from demos](https://jangirrishabh.github.io/2018/03/25/Overcoming-exploration-demos.html)
 - [Understanding Baseline Techniques for REINFORCE](https://medium.com/@fork.tree.ai/understanding-baseline-techniques-for-reinforce-53a1e2279b57)
 - [Deep Reinforcement Learning by Julien Vitay](https://julien-vitay.net/deeprl/)
+- [How to Make Sense of the Reinforcement Learning Agents? What and Why I Log During Training and Debug](https://neptune.ai/blog/how-to-make-sense-of-the-reinforcement-learning-agents-what-and-why-i-log-during-training-and-debug)
 
 ## Compilations
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
