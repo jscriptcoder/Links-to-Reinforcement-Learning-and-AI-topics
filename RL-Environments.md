@@ -30,3 +30,4 @@
 - [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
 - [List of environments and competitions for RL and AI training](https://github.com/dbobrenko/ai-learning-environments)
 - [OpenAI Gym: packaged with Gym, official OpenAI environments, and third party environment](https://github.com/openai/gym/blob/master/docs/environments.md)
+- [RL environment list](https://github.com/clvrai/awesome-rl-envs)
