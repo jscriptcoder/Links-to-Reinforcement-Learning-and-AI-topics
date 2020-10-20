@@ -24,6 +24,7 @@
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home)
 - [Multi-Agent-Learning-Environments](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
 - [PettingZoo: Multi-agent RL environments](https://www.pettingzoo.ml/)
+- [Minimalistic Gridworld Environment (MiniGrid)](https://github.com/maximecb/gym-minigrid)
 
 ## Other Compilations
 - [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
