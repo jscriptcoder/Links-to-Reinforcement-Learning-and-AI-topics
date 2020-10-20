@@ -7,7 +7,7 @@
 - [CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) — [www](http://web.stanford.edu/class/cs234/index.html)
 - [UCL Course on RL with David Silver 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) — [www](https://www.davidsilver.uk/teaching/)
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-- [CS885 Spring 2018 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) — [website](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
+- [CS885 Spring 2018 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) — [www](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
 - [CS7015: Deep Learning](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT) — [www](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
 - [CS 330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) — [www](http://cs330.stanford.edu/)
 - [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) — [www](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
